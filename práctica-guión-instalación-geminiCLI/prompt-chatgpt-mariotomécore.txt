@@ -1,0 +1,84 @@
+Quiero que actúes como un experto senior en IA, documentación técnica y herramientas de línea de comandos. Necesito que generes una guía práctica completa, profesional y muy detallada sobre cómo instalar, configurar y utilizar Gemini CLI. Esta guía será presentada como un documento técnico para mi módulo de Inteligencia Artificial en el CFGS de Desarrollo de Aplicaciones Web, por lo que debe estar impecablemente organizada y redactada.
+
+REGLAS FUNDAMENTALES PARA LA GUÍA
+
+La guía debe:
+	1.	Estar escrita con claridad, precisión técnica y tono profesional.
+	2.	Tener una estructura perfecta, dividida en secciones y subsecciones muy claras.
+	3.	Incluir comandos totalmente correctos, ejemplos funcionales y explicaciones paso a paso.
+	4.	Basarse en información fiable, incluyendo:
+	•	Repositorio oficial: https://github.com/addyosmani/gemini-cli-tips
+	•	https://www.philschmid.de/gemini-cli-cheatsheet
+	•	https://addyo.substack.com/p/gemini-cli-tips-and-tricks
+	5.	En todos los comandos y ejemplos, explicar qué hace, cuándo se usa y qué resultado se espera.
+	6.	Crear capturas simuladas en formato:
+
+[Captura simulada: descripción breve y clara de lo que muestra]
+
+(yo sustituiré estas capturas por imágenes reales después).
+
+⸻
+
+ESTRUCTURA EXACTA QUE DEBE TENER LA GUÍA
+
+1. Introducción
+	•	Qué es Gemini CLI
+	•	Para qué sirve
+	•	Requisitos previos
+
+2. Instalación completa de Gemini CLI
+	•	Métodos disponibles (Node.js, NPM, alternativa global/local, etc.)
+	•	Comprobación de instalación
+	•	Solución a errores frecuentes
+
+3. Configuración inicial
+	•	Cómo generar una API Key
+	•	Configurar variables de entorno
+	•	Archivo de configuración (si aplica)
+	•	Prueba inicial de funcionamiento
+
+4. Comandos esenciales de Gemini CLI
+Para cada comando:
+	•	Sintaxis
+	•	Explicación clara
+	•	Ejemplo práctico
+	•	Resultado esperado
+	•	Captura simulada
+
+Los comandos que deben aparecer como mínimo:
+	•	gemini init
+	•	gemini ask
+	•	gemini stream
+	•	gemini generate
+	•	gemini read
+	•	gemini help
+	•	gemini version
+
+5. Ejemplos completos de uso real
+	•	Preguntas complejas
+	•	Uso con archivos locales
+	•	Uso con prompts largos
+	•	Ejemplos de entrada → salida
+
+6. Buenas prácticas, optimización y tips avanzados
+	•	Cómo mejorar los prompts
+	•	Cómo integrar Gemini CLI en flujos de desarrollo
+	•	Uso eficiente de memoria y parámetros
+
+7. Conclusión
+	•	Resumen técnico
+	•	Recomendaciones finales
+
+⸻
+
+REQUISITOS DE PRESENTACIÓN
+	•	Debe tener formato limpio y profesional.
+	•	Usar títulos, subtítulos y listas.
+	•	Redacción perfecta sin errores ortográficos.
+	•	Explicaciones claras, didácticas y ordenadas.
+
+⸻
+
+ENTREGA
+Quiero que generes la guía completa, sin pedirme confirmación previa ni hacer preguntas.
+Debe estar lista para copiar y pegar en Google Docs para yo luego entregarla como PDF.
